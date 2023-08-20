@@ -1,5 +1,6 @@
 # ToDoList
-## @author Sobomate-Victor Asimiea
+## @author Sobomate-Victor Asimiea<br />
+*12/08/2023*<br />
 Beginning of a to do list project using python. Using specifically the tkinter library 
 
 I would first start by making a command line To-Do List before implementing the GUI.<br />
