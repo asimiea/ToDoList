@@ -15,8 +15,10 @@ I would first start by making a command line To-Do List before implementing the 
 
 *23/08/2023*<br />
 I have just finished creating a functional GUI, it is not the prettiest righ now but it is functional. <br />
+![image](https://github.com/asimiea/ToDoList/assets/85371257/d7eca9f5-561b-4e9a-b54f-2eea59bbc7d2)
+![image](https://github.com/asimiea/ToDoList/assets/85371257/7ac99eda-f3c2-4e09-ba9d-de534157aefa)
 
 I used a grid arrangement for the GUI what that means is, if the window is maximized or minimized the widgets remain in the same place<br />
-
+![image](https://github.com/asimiea/ToDoList/assets/85371257/092d4b75-34ab-473a-b65f-d14fd5267956)
 
 In this next phase, I want to explore design techniques and better looking GUI's in python
