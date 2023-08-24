@@ -5,7 +5,7 @@ def addTask(entries):
     entries.append({"task": entry, "status": "pending"})
     #print("adding Task")
 
-def removeTask(entries):
+def markCompleted(entries):
     entry_number = int(input("Enter the number of the entry you want to mark as completed: ")) - 1
 
     if 0 <= entry_number < len(entries):

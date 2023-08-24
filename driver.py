@@ -12,7 +12,7 @@ class driver:
         if answer == 1:
             td.addTask(entries)
         elif answer == 2:
-            td.removeTask(entries)
+            td.markCompleted(entries)
         elif answer == 3:
             td.printList(entries)
         elif answer == 4:
